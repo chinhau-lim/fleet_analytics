@@ -27,7 +27,7 @@ In this project, we created a data science module that analyze input timeseries 
 
 ### Path
 
-• current directory: fa_module.py, data subdirectory
+• current directory: fa_module.py (get the fa_module out of the data zipped file), data subdirectory
 
 • data subdirectory - contains all car csv data.
 
