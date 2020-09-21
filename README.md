@@ -1,7 +1,7 @@
-## Data Science Module (Fleet Analytics)
+## Data Science Module (Time Series Analytics)
 
 <br>
-** Password Needed to Unlock Zipped File
+** Password Needed to Unlock Zipped File 
 
 In this project, we created a data science module that analyze input timeseries data and extract the following metrics: 
 - The top N most/least common values by occurrence
